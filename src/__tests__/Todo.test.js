@@ -3,6 +3,7 @@ import { BrowserRouter } from "react-router-dom"
 import Todo from '../components/Todo/Todo';
 
 const MockedTodo = ({ numberOfIncompleteTasks }) => {
+    
     return (
         <BrowserRouter>
             <Todo />

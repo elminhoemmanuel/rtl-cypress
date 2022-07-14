@@ -1,0 +1,62 @@
+[
+    {
+        "login": {
+            "uuid": "dbd03051-2ff2-424f-9454-94b40c8e4ab8",
+            "username": "goldenmeercat340",
+            "password": "emily1"
+        },
+        "name": {
+            "title": "Ms",
+            "first": "Sneha",
+            "last": "Pujari"
+        }
+    },
+    {
+        "login": {
+            "uuid": "dbd03051-2ff2-424f-9454-94b40c8e4ad8",
+            "username": "goldenmeercat345",
+            "password": "emily2"
+        },
+        "name": {
+            "title": "Ms",
+            "first": "Snehaj",
+            "last": "Pujari"
+        }
+    },
+    {
+        "login": {
+            "uuid": "dbd03051-2ff2-424f-9454-94b40c8e4ac5",
+            "username": "goldenmeercat343",
+            "password": "emily3"
+        },
+        "name": {
+            "title": "Ms",
+            "first": "Snehajh",
+            "last": "Pujarib"
+        }
+    },
+    {
+        "login": {
+            "uuid": "dbd03051-2ff2-424f-9454-94b40c8e4ab8",
+            "username": "goldenmeercat340",
+            "password": "emily1"
+        },
+        "name": {
+            "title": "Ms",
+            "first": "Sneha",
+            "last": "Pujari"
+        }
+    },
+    {
+        "login": {
+            "uuid": "dbd03051-2ff2-424f-9454-94b40c8e4ab8",
+            "username": "goldenmeercat340",
+            "password": "emily1"
+        },
+        "name": {
+            "title": "Ms",
+            "first": "Sneha",
+            "last": "Pujari"
+        }
+    }
+]
